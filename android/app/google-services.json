@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "3200679104",
+    "project_id": "auth-modul-lucky",
+    "storage_bucket": "auth-modul-lucky.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3200679104:android:d73275dcada9c09973c125",
+        "android_client_info": {
+          "package_name": "com.example.study_firebase_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcE2z3U8GbKxFqTpLBnVkxlJVT4pZxANw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
